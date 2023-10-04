@@ -6,10 +6,9 @@ let samadengan= 3 ==5
 let tidaksamadengan= 9 != 7
 let samadengansamadengan="6"==6
 
-console.log(lebihbesar)
-console.log(lebihkecil)
-console.log(lebihkecilsamadengan)
-console.log(lebihbesarsamadengan)
-console.log(samadengan)
-console.log(tidaksamadengan)
-console.log(samadengansamadengan)
+let mahasiswa = true
+let mahasiswa1= false
+mahasiswa ? console.log("aku mahasiswa "): console.log("aku bukan mahasiswa")
+mahasiswa1? consolelog("aku mahasiswa"): console.log("aku bukan mahasiswa")
+
+
